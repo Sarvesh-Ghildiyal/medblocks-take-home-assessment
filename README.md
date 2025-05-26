@@ -41,3 +41,9 @@ The assessment required the following deliverables:
 - ⏳ Describe any challenges faced during development (pending)
 
 ---
+
+## 🎥 Demo Video
+
+Watch a short demonstration of the patient registration app:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dqNsbosC1Z4" title="Medblocks Assessment Demo" frameborder="0" allowfullscreen></iframe>
