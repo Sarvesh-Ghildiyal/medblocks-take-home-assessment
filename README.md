@@ -44,6 +44,6 @@ The assessment required the following deliverables:
 
 ## 🎥 Demo Video
 
-Watch a short demonstration of the patient registration app:
+[![Watch Demo](https://img.youtube.com/vi/dqNsbosC1Z4/0.jpg)](https://youtu.be/dqNsbosC1Z4)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dqNsbosC1Z4" title="Medblocks Assessment Demo" frameborder="0" allowfullscreen></iframe>
+> Click the image to watch the demo video on YouTube.
