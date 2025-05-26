@@ -62,7 +62,7 @@ const Index = () => {
   };
 
   // Query State variable and functions
-  const [sqlQuery, setSqlQuery] = useState("");
+  const [sqlQuery, setSqlQuery] = useState("SELECT * FROM patients;");
   const [queryResults, setQueryResults] = useState<any[]>([]);
   const [isQuerying, setIsQuerying] = useState(false);
 
@@ -290,7 +290,7 @@ const Index = () => {
           <CardHeader className="bg-indigo-600 text-white rounded-t-xl px-6 py-4">
             <CardTitle className="flex items-center gap-2 text-lg font-semibold">
               <Users className="w-5 h-5" />
-              <span>Patient Records ({queryResults.length})</span>
+              <span>SQL Query Results: Patient Records ({queryResults.length})</span>
             </CardTitle>
           </CardHeader>
 
