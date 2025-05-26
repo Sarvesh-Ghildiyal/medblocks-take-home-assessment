@@ -1,5 +1,7 @@
 # Medblocks Take-Home Assessment
 
+🔗 **Public Deployment:** [https://medblocks-take-home-assessment.vercel.app/](https://medblocks-take-home-assessment.vercel.app/)
+
 This is a Vite-powered frontend application developed as part of a take-home assessment for Medblocks. The goal of this project is to create a lightweight, browser-based patient registration app using [Pglite](https://github.com/lvce-editor/pglite), a SQLite implementation for the browser.
 
 ---
@@ -23,7 +25,7 @@ The following tasks were given as part of the assessment:
 - ✅ Register new patients  
 - ✅ Query records using raw SQL  
 - ✅ Persist patient data across page refreshes  
-- ❌ Support usage across multiple browsers  
+- ✅ Support usage across multiple browsers  
 
 > All tasks have been completed except multi-browser support, which is currently under review.
 
