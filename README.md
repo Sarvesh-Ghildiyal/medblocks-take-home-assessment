@@ -35,7 +35,7 @@ The assessment required the following deliverables:
 
 - ✅ Document each feature as a separate Git commit with clear commit history  
 - ✅ Provide setup and usage instructions  
-- ⏳ Deploy your solution to a publicly accessible URL (pending)  
-- ✅ Describe any challenges faced during development  
+- ✅ Deploy your solution to a publicly accessible URL  
+- ⏳ Describe any challenges faced during development (pending)
 
 ---

@@ -5,11 +5,16 @@ import { useTheme } from "next-themes";
 import { Toaster } from "sonner";
 
 const CustomToaster = () => {
-  const { theme = "system" } = useTheme();
+  const { theme } = useTheme();
+
+  const resolvedTheme =
+    theme === "light" || theme === "dark" || theme === "system"
+      ? theme
+      : "system"; // fallback
 
   return (
     <Toaster
-      theme={theme}
+      theme={resolvedTheme}
       className="toaster group"
       style={
         {
