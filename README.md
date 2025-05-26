@@ -14,3 +14,28 @@ cd medblocks-take-home-assessment
 
 npm install
 npm run dev
+
+---
+
+The following tasks were given as part of the assessment:
+
+- ✅ Build a frontend-only patient registering app using Pglite  
+- ✅ Register new patients  
+- ✅ Query records using raw SQL  
+- ✅ Persist patient data across page refreshes  
+- ❌ Support usage across multiple browsers  
+
+> All tasks have been completed except multi-browser support, which is currently under review.
+
+---
+
+## 📋 Requirements Overview
+
+The assessment required the following deliverables:
+
+- ✅ Document each feature as a separate Git commit with clear commit history  
+- ✅ Provide setup and usage instructions  
+- ⏳ Deploy your solution to a publicly accessible URL (pending)  
+- ✅ Describe any challenges faced during development  
+
+---
