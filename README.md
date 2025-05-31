@@ -41,6 +41,7 @@ The assessment required the following deliverables:
 - ⏳ Describe any challenges faced during development (pending)
 
 ---
+```
 
 ## 🎥 Demo Video
 
